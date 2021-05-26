@@ -1,0 +1,84 @@
+17:45:56.307 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:45:56.309 [main] INFO  dev.console.App -
+                Implementation Logback
+17:47:37.464 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:47:37.466 [main] INFO  dev.console.App -
+                Implementation Logback
+17:47:37.467 [main] DEBUG dev.console.AppService -
+                Traitement 1 : param = TEST
+17:47:37.468 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:47:37.468 [main] DEBUG dev.console.AppService -
+                Traitement 3 : param = TEST
+17:47:58.741 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:47:58.744 [main] INFO  dev.console.App -
+                Implementation Logback
+17:47:58.746 [main] DEBUG dev.console.AppService -
+                Traitement 1 : param = TEST
+17:47:58.747 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:47:58.747 [main] DEBUG dev.console.AppService -
+                Traitement 3 : param = TEST
+17:48:09.137 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:48:09.139 [main] INFO  dev.console.App -
+                Implementation Logback
+17:48:09.140 [main] DEBUG dev.console.AppService -
+                Traitement 1 : param = TEST
+17:48:09.141 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:48:09.141 [main] DEBUG dev.console.AppService -
+                Traitement 3 : param = TEST
+17:48:35.452 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:48:35.454 [main] INFO  dev.console.App -
+                Implementation Logback
+17:48:35.455 [main] DEBUG dev.console.AppService -
+                Traitement 1 : param = TEST
+17:48:35.456 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:48:35.456 [main] DEBUG dev.console.AppService -
+                Traitement 3 : param = TEST
+17:48:57.428 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:48:57.431 [main] INFO  dev.console.App -
+                Implementation Logback
+17:48:57.431 [main] DEBUG dev.console.AppService -
+                Traitement 1 : param = TEST
+17:48:57.432 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:48:57.432 [main] DEBUG dev.console.AppService -
+                Traitement 3 : param = TEST
+17:50:58.583 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:50:58.585 [main] INFO  dev.console.App -
+                Implementation Logback
+17:50:58.586 [main] DEBUG dev.console.AppService -
+                Traitement 1 : param = TEST
+17:50:58.587 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:50:58.587 [main] DEBUG dev.console.AppService -
+                Traitement 3 : param = TEST
+17:52:13.658 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:52:13.660 [main] INFO  dev.console.App -
+                Implementation Logback
+17:52:13.661 [main] INFO  dev.console.AppService -
+                Traitement 1 : param = TEST
+17:52:13.662 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:52:13.662 [main] WARN  dev.console.AppService -
+                Traitement 3 : param = TEST
+17:53:28.565 [main] INFO  dev.console.App -
+                Bonjour SLf4J !
+17:53:28.567 [main] INFO  dev.console.App -
+                Implementation Logback
+17:53:28.568 [main] INFO  dev.console.AppService -
+                Traitement 1 : param = TEST
+17:53:28.569 [main] DEBUG dev.console.AppService -
+                Traitement 2 : param = TEST
+17:53:28.569 [main] WARN  dev.console.AppService -
+                Traitement 3 : param = TEST
